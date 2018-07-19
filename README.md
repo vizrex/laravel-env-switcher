@@ -1,4 +1,3 @@
-
 > # READ THIS FIRST
 > It is highly recommended for all contributors to update this file whenever there's a major update in source code. Use [this tool](https://stackedit.io/app#) for easy editing or [visit this page](https://help.github.com/articles/basic-writing-and-formatting-syntax/) for comprehensive guide on markdown syntax.
 
@@ -30,8 +29,8 @@ In case the required version of `.env` file doesn't exist, its created automatic
 
 # To-dos
 Following are the approved items:
-[ ] Item-1
+- Item-1
 
 # Wishlist
 Add the suggestions in this wishlist. Only approved wishlist items can be moved to To-dos list:
-[ ] Item-1
+- Item-1
