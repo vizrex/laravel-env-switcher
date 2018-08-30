@@ -5,5 +5,8 @@
 
 > The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.0.1
+Fixed: Localized strings were not being loaded properly
+
 ## 1.0.0
 - Added commandline utility with support of 3 environments i.e. dev, prod and testing

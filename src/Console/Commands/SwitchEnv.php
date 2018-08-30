@@ -164,5 +164,4 @@ class SwitchEnv  extends BaseCommand
     {
         $this->namespace = \Vizrex\LaravelEnvSwitcher\LaravelEnvSwitcherProvider::getNamespace();
     }
-
 }
